@@ -1,0 +1,88 @@
+.navbar-light .navbar-brand {
+    background: teal;
+    color:white;
+    position:relative;
+    left:120px;
+    height:100%;
+    width:20%;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:10px;
+    
+    }
+
+    .navbar-light .nav-item {
+        font-family: 'Georgia', Times, 'Times New Roman', serif;
+        
+    }
+
+    .navbar-light {
+        width:100%;
+
+    }
+
+    .jumbotron {
+        width: 940px;
+        border:1px;
+        border-style:solid;
+        position:relative;
+        left:120px;
+        background: #ffffff;
+        border-color:#dddddd;
+        margin:20px;
+        padding: 60px;
+        font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.jumbotron .lead {
+    display: inline;
+    bottom: 200px;
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+}
+
+.jumbotron #suit {
+    width: 300px;
+    float: left;
+    margin: 20px;
+}
+
+.jumbotron .display-4 {
+    color:teal;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.card .card-body {
+    background:teal;
+    color:white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    position:relative;
+    bottom:90px;
+}
+.card{
+    border:solid transparent;
+}
+
+footer {
+    text-align:center;
+    background:#666666;
+    color:white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+}
+
+.jumbotron .my-line{
+    clear:all;
+  
+}
+
+.jumbotron .form-control {
+    margin:10px;
+}
+
+
+
+
+  /*960px
